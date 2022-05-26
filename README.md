@@ -1,3 +1,3 @@
-# ESP_IoT-module
+# ms-scanner
 
 Service for scanning all devices
